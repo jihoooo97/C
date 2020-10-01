@@ -35,8 +35,8 @@ int main()
 
 {
 
-    int a = 10;
-    int *p = &a;
+ int a = 10;
+ int *p = &a;
 
     
 
@@ -64,6 +64,6 @@ int main()
 
 12)    printf("%p\n", p);
 
-    return 0;
+return 0;
 
 }

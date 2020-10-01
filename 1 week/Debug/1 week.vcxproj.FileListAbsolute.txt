@@ -1,0 +1,2 @@
+C:\Users\유지호\Desktop\코딩연습\C\1 week\Debug\1 week.exe
+C:\Users\유지호\Desktop\코딩연습\C\1 week\Debug\1 week.pdb

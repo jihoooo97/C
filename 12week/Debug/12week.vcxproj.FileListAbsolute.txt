@@ -1,0 +1,2 @@
+C:\Users\유지호\Desktop\코딩연습\C\12week\Debug\12week.exe
+C:\Users\유지호\Desktop\코딩연습\C\12week\Debug\12week.pdb
